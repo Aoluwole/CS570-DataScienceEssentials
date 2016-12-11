@@ -1,0 +1,168 @@
+Country,Democracy_Score,Govt_Category
+Norway,9.93,Full democracy
+Iceland,9.58,Full democracy
+Sweden,9.45,Full democracy
+New Zealand,9.26,Full democracy
+Denmark,9.11,Full democracy
+Switzerland,9.09,Full democracy
+Canada,9.08,Full democracy
+Finland,9.03,Full democracy
+Australia,9.01,Full democracy
+Netherlands,8.92,Full democracy
+Luxembourg,8.88,Full democracy
+Ireland,8.85,Full democracy
+Germany,8.64,Full democracy
+Austria,8.54,Full democracy
+Malta,8.39,Full democracy
+United Kingdom,8.31,Full democracy
+Spain,8.3,Full democracy
+Mauritius,8.28,Full democracy
+Uruguay,8.17,Full democracy
+United States,8.05,Full democracy
+Italy,7.98,Flawed democracy
+South Korea,7.97,Flawed democracy
+Japan,7.96,Flawed democracy
+Costa Rica,7.96,Flawed democracy
+Czech Republic,7.94,Flawed democracy
+Belgium,7.93,Flawed democracy
+France,7.92,Flawed democracy
+Botswana,7.87,Flawed democracy
+Estonia,7.85,Flawed democracy
+Chile,7.84,Flawed democracy
+Taiwan,7.83,Flawed democracy
+Cape Verde,7.81,Flawed democracy
+Portugal,7.79,Flawed democracy
+Israel,7.77,Flawed democracy
+India,7.74,Flawed democracy
+Slovenia,7.57,Flawed democracy
+South Africa,7.56,Flawed democracy
+Lithuania,7.54,Flawed democracy
+Cyprus,7.53,Flawed democracy
+Greece,7.45,Flawed democracy
+Jamaica,7.39,Flawed democracy
+Latvia,7.37,Flawed democracy
+Slovakia,7.29,Flawed democracy
+Timor-Leste,7.24,Flawed democracy
+Panama,7.19,Flawed democracy
+Bulgaria,7.14,Flawed democracy
+Trinidad and Tobago,7.1,Flawed democracy
+Poland,7.09,Flawed democracy
+Indonesia,7.03,Flawed democracy
+Argentina,7.02,Flawed democracy
+Brazil,6.96,Flawed democracy
+Croatia,6.93,Flawed democracy
+Ghana,6.86,Flawed democracy
+Philippines,6.84,Flawed democracy
+Hungary,6.84,Flawed democracy
+Suriname,6.77,Flawed democracy
+Tunisia,6.72,Flawed democracy
+Serbia,6.71,Flawed democracy
+Romania,6.68,Flawed democracy
+Dominican Republic,6.67,Flawed democracy
+El Salvador,6.64,Flawed democracy
+Mongolia,6.62,Flawed democracy
+Colombia,6.62,Flawed democracy
+Lesotho,6.59,Flawed democracy
+Peru,6.58,Flawed democracy
+Mexico,6.55,Flawed democracy
+Hong Kong,6.5,Flawed democracy
+Malaysia,6.43,Flawed democracy
+Sri Lanka,6.42,Flawed democracy
+Moldova,6.35,Flawed democracy
+Paraguay,6.33,Flawed democracy
+Namibia,6.31,Flawed democracy
+Zambia,6.28,Flawed democracy
+Singapore,6.14,Flawed democracy
+Senegal,6.08,Flawed democracy
+Guyana,6.05,Flawed democracy
+Papua New Guinea,6.03,Flawed democracy
+Macedonia,6.02,Flawed democracy
+Montenegro,6.01,Flawed democracy
+Guatemala,5.92,Hybrid regime
+Albania,5.91,Hybrid regime
+Georgia,5.88,Hybrid regime
+Ecuador,5.87,Hybrid regime
+Honduras,5.84,Hybrid regime
+Bolivia,5.75,Hybrid regime
+Bangladesh,5.73,Hybrid regime
+Benin,5.72,Hybrid regime
+Ukraine,5.7,Hybrid regime
+Mali,5.7,Hybrid regime
+Fiji,5.69,Hybrid regime
+Tanzania,5.58,Hybrid regime
+Malawi,5.55,Hybrid regime
+Kyrgyzstan,5.33,Hybrid regime
+Kenya,5.33,Hybrid regime
+Nicaragua,5.26,Hybrid regime
+Uganda,5.22,Hybrid regime
+Turkey,5.12,Hybrid regime
+Thailand,5.09,Hybrid regime
+Venezuela,5,Hybrid regime
+Liberia,4.95,Hybrid regime
+Bhutan,4.93,Hybrid regime
+Lebanon,4.86,Hybrid regime
+Madagascar,4.85,Hybrid regime
+Bosnia and Herzegovina,4.83,Hybrid regime
+Nepal,4.77,Hybrid regime
+Burkina Faso,4.7,Hybrid regime
+Morocco,4.66,Hybrid regime
+Nigeria,4.62,Hybrid regime
+Mozambique,4.6,Hybrid regime
+Palestine,4.57,Hybrid regime
+Sierra Leone,4.55,Hybrid regime
+Pakistan,4.4,Hybrid regime
+Cambodia,4.27,Hybrid regime
+Myanmar,4.14,Hybrid regime
+Iraq,4.08,Hybrid regime
+Armenia,4,Hybrid regime
+Mauritania,3.96,Authoritarian
+Algeria,3.95,Authoritarian
+Haiti,3.94,Authoritarian
+Jordan,3.86,Authoritarian
+Kuwait,3.85,Authoritarian
+Niger,3.85,Authoritarian
+Ethiopia,3.83,Authoritarian
+Gabon,3.76,Authoritarian
+Comoros,3.71,Authoritarian
+Cameroon,3.66,Authoritarian
+Belarus,3.62,Authoritarian
+Vietnam,3.53,Authoritarian
+Cuba,3.52,Authoritarian
+Togo,3.41,Authoritarian
+Angola,3.35,Authoritarian
+Ivory Coast,3.31,Authoritarian
+Russia,3.31,Authoritarian
+Egypt,3.18,Authoritarian
+Qatar,3.18,Authoritarian
+Guinea,3.14,Authoritarian
+People's Republic of China,3.14,Authoritarian
+Swaziland,3.09,Authoritarian
+Rwanda,3.07,Authoritarian
+Kazakhstan,3.06,Authoritarian
+Zimbabwe,3.05,Authoritarian
+Oman,3.04,Authoritarian
+Gambia,2.97,Authoritarian
+Republic of the Congo,2.91,Authoritarian
+Djibouti,2.9,Authoritarian
+Bahrain,2.79,Authoritarian
+Afghanistan,2.77,Authoritarian
+United Arab Emirates,2.75,Authoritarian
+Azerbaijan,2.71,Authoritarian
+Burundi,2.49,Authoritarian
+Sudan,2.37,Authoritarian
+Eritrea,2.37,Authoritarian
+Libya,2.25,Authoritarian
+Yemen,2.24,Authoritarian
+Laos,2.21,Authoritarian
+Iran,2.16,Authoritarian
+Democratic Republic of the Congo,2.11,Authoritarian
+Uzbekistan,1.95,Authoritarian
+Tajikistan,1.95,Authoritarian
+Guinea-Bissau,1.93,Authoritarian
+Saudi Arabia,1.93,Authoritarian
+Turkmenistan,1.83,Authoritarian
+Equatorial Guinea,1.77,Authoritarian
+Central African Republic,1.57,Authoritarian
+Chad,1.5,Authoritarian
+Syria,1.43,Authoritarian
+North Korea,1.08,Authoritarian
